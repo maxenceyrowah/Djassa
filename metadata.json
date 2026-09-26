@@ -1,0 +1,8 @@
+{
+  "name": "Djassa",
+  "description": "Plateforme de gestion d'inventaire, logistique multi-pôles et catalogue marchand e-commerce haute performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
